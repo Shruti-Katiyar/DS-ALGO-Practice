@@ -7,7 +7,8 @@ public:
         while(fast and fast->next){
             fast=fast->next->next;
             slow=slow->next;
-            if(fast==slow){ //if cycle is presentthen slow again head say start                               hogha
+            if(fast==slow){ //if cycle is presentthen slow again head say start                              
+			                // hogha
                 slow=head;
                 while(slow!=fast){
                     slow=slow->next;
