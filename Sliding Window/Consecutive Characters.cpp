@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/consecutive-characters/submissions/
-//Consecutive Characters
+//Consecutive Character
 
 class Solution {
 public:
