@@ -1,4 +1,4 @@
-//House Robber II
+//House Robber 2
 https://leetcode.com/problems/house-robber-ii/submissions/
 
 class Solution {
