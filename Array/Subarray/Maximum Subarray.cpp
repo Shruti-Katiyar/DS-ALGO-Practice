@@ -1,4 +1,4 @@
-//Maximum Subarray or Kadane's Algorithm 
+//Maximum Subarray or Kadane's Algorithms
 https://leetcode.com/problems/maximum-subarray/
 https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#
 
