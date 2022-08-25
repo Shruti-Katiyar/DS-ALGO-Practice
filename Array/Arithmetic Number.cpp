@@ -1,4 +1,4 @@
-//Arithmetic Numbers
+//Arithmetic Number
 
 https://practice.geeksforgeeks.org/problems/arithmetic-number2815/1#
 
