@@ -1,4 +1,4 @@
-//
+//Boat to save people
 
 
 #include<iostream>
