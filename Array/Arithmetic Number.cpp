@@ -1,6 +1,5 @@
 //Arithmetic Number
-
-https://practice.geeksforgeeks.org/problems/arithmetic-number2815/1#
+//https://practice.geeksforgeeks.org/problems/arithmetic-number2815/1#
 
 class Solution{
 public:
